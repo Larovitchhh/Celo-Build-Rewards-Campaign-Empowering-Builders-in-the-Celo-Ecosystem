@@ -1,2 +1,4 @@
 # Celo-Build-Rewards-Campaign-Empowering-Builders-in-the-Celo-Ecosystem
 Celo Build Rewards Campaign: Empowering Builders in the Celo Ecosystem
+The Celo blockchain, renowned for its mobile-first, carbon-negative design and commitment to financial inclusion, is fostering a vibrant developer community through initiatives like the Celo Build Rewards Campaign. Spearheaded by Celo Public Goods (CeloPG) and partners such as Talent Protocol, Glo Dollar, and Gitcoin, this campaign incentivizes builders to create impactful projects on Celo, driving innovation in decentralized finance (DeFi), regenerative finance (ReFi), and community adoption. By offering substantial rewards in CELO, cUSD, and other tokens, the campaign supports Celo’s mission to build a regenerative digital economy that promotes prosperity for all. This article explores the Celo Build Rewards Campaign, its programs, impact, and how developers can get involved.
+
